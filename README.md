@@ -4,7 +4,7 @@ This project goal was to create a custom WordPress plugin that would display in 
 
 There are no options to set up in WP admin. This plugin was developed to be used with custom HTML newsletter forms provided by different CRM systems. The newsletter forms are placed manually and directly in the source code.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/QhfpQgbYLow/0.jpg)](http://www.youtube.com/watch?v=QhfpQgbYLow "MEM - form and popup")
+[![IMAGE ALT TEXT](https://vl-portfolio-images.s3.us-west-2.amazonaws.com/mem-popup-and-form-play.jpg)](http://www.youtube.com/watch?v=QhfpQgbYLow "MEM - form and popup")
 
 
 ### Other details
