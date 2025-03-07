@@ -96,16 +96,27 @@ button.mfp-close{
     margin: 10px;
 }
 
-/* input styles */
-input[type=text],
-input[type=email],
-input[type=submit]{
-	width: 300px;
+/* form styles */
+.form-box{
+	width: 100%;
+	display: block;
+	margin: 0 auto;
+	max-width: 400px;
+}
+
+.form-box form{
+	width: 100%;
+}
+
+.form-box input[type=text],
+.form-box input[type=email],
+.form-box input[type=submit]{
+	width: 100%;
     padding: 10px;
     box-sizing: border-box;
     margin-bottom: 15px;
 }
 
-input[type=submit]{
+.form-box input[type=submit]{
 	margin-top: 15px;
 }
