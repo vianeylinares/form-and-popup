@@ -42,9 +42,9 @@ function form_and_popup_shortcode(){
 		
     	<form>
     		
-    		<input type="text" name="name" placeholder="Nombre *" required=""><br/>
+    		<input type="text" name="name" placeholder="Name *" required=""><br/>
     		<input type="email" name="email" placeholder="E-mail *" required=""><br/>
-    		<input type="checkbox" name="policy" id="policy-check" required=""> I have read and accept the <a href="<?php echo home_url(); ?>">privacy policy</a> <br/>
+    		<input type="checkbox" name="policy" id="policy-check" required=""> I have read and accept the <a href="<?php echo home_url(); ?>/privacy-policy/" target="_blank">privacy policy</a> <br/>
     		<input type="submit" name="send" value="Send">
 
     	</form>    
