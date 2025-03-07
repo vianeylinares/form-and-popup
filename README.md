@@ -18,5 +18,3 @@ The plugin was developed with:
 <li>CSS</li>
 <li>Magnific Popup</li>
 </ul>
-
-This application was initially released in 2018.
